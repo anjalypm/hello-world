@@ -1,0 +1,5 @@
+print("TASK 6")
+print("MY NAME :Anjaly pm")
+print("My QUOTE:DO wHAT MAKES YOU HAPPY")
+print("MY HOBBY:Watching movies,chilling with friends,PHOTOGRAPHY")
+print("MY STORY:I am a passionate vide&ophotographer.Studying in Saintgits College of Engineering")
